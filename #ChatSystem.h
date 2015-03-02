@@ -1,6 +1,7 @@
 //Hashtag(#) Chat System & Language Conversion (Assitance From Tsunami282 & DMFI Team)
 //Author: Rob Steiner (robbythedude@hotmail.com)
 //Date: 2/5/15
+//Modified: 3/1/15
 
 /******PURPOSE******
 //An NWN Chat parser that will allow for execution of commands via a
@@ -12,8 +13,11 @@
 
 /******HOW-TO******
 This script is to be executed by event, OnPlayerChat().
+Make sure NWNX2 with ODBC is installed properly and working!
 Edit -> Module Properties -> Events -> OnPlayerChat
 */
+
+#include "aps_include"
 
 //Initializing Functions
 string parseArgs(string command, int argID);
@@ -415,6 +419,11 @@ void main()
         {
             produceOutput("Error in command.", "quiet", oPlayer);
         }
+    }
+    else if(sCurrCommandArg == "save")  //Force save character and date
+    {
+        //Apart of persistent time system, remove if not using
+        SQLExecDirect("UPDATE currentDate SET year = " + IntToString(GetCalendarYear()) + ", month = " + IntToString(GetCalendarMonth()) + ", day = " + IntToString(GetCalendarDay()) + "WHERE id = 1");
     }
     else
     {
