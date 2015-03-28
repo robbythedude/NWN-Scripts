@@ -16,3 +16,12 @@ C:\Users\Rob\Code\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdate
 C:\Users\Rob\Code\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.Properties.Resources.resources
 C:\Users\Rob\Code\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.csproj.GenerateResource.Cache
 C:\Users\Rob\Code\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.AboutForm.resources
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\bin\Debug\TethyrAutoUpdater.exe.config
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.exe
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.pdb
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\bin\Debug\TethyrAutoUpdater.exe
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\bin\Debug\TethyrAutoUpdater.pdb
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.AboutForm.resources
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.MainForm.resources
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.Properties.Resources.resources
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Debug\TethyrAutoUpdater.csproj.GenerateResource.Cache

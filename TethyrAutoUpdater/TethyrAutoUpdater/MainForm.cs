@@ -39,7 +39,8 @@ namespace TethyrAutoUpdater
         //Constructor
         public MainForm()
         {
-            InitializeComponent();  
+            InitializeComponent();
+            this.textboxPathToNWN.Text = "NWN Directory Here";
         }
 
         //This function will execute when the browser button is pressed

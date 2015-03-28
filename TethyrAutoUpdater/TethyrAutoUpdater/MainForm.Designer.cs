@@ -57,6 +57,7 @@
             // 
             // textboxPathToNWN
             // 
+            this.textboxPathToNWN.Enabled = false;
             this.textboxPathToNWN.Location = new System.Drawing.Point(12, 50);
             this.textboxPathToNWN.Name = "textboxPathToNWN";
             this.textboxPathToNWN.Size = new System.Drawing.Size(228, 20);
