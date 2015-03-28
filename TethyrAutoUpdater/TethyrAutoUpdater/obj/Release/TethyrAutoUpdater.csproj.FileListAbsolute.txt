@@ -7,3 +7,13 @@ C:\Users\Rob\Code\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpda
 C:\Users\Rob\Code\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.csproj.GenerateResource.Cache
 C:\Users\Rob\Code\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.exe
 C:\Users\Rob\Code\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.pdb
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\bin\Release\TethyrAutoUpdater.exe.config
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.exe
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.pdb
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\bin\Release\TethyrAutoUpdater.exe
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\bin\Release\TethyrAutoUpdater.pdb
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.AboutForm.resources
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.MainForm.resources
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.Properties.Resources.resources
+C:\Users\Rob\Code\NWN-Scripts\TethyrAutoUpdater\TethyrAutoUpdater\obj\Release\TethyrAutoUpdater.csproj.GenerateResource.Cache
